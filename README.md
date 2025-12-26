@@ -1,4 +1,4 @@
-![Build Status](https://github.com/[solvarsaurus]/[https://github.com/solvarsaurus/ASCII_PACMAN]/actions/workflows/arduino_ci.yml/badge.svg)
+![Build Status](https://github.com/solvarsaurus/ASCII_PACMAN/actions/workflows/arduino_ci.yml/badge.svg)
 
 <!--
 **solvarsaurus/solvarsaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
