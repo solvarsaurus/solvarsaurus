@@ -30,7 +30,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=800&height=50&lines=SOLVARSAURUS_ST_MAINFRAME+v6.0;SCANNING_AIRSPACE...;TACTICAL_EAGLE_DETECTED.;UPLINK_STABLE.">
 
-```text
 <div align="center">
 
 <img src="[https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=800&height=50&lines=SOLVARSAURUS_ST_MAINFRAME+v6.0;SCANNING_AIRSPACE...;TACTICAL_EAGLE_DETECTED.;UPLINK_STABLE](https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=800&height=50&lines=SOLVARSAURUS_ST_MAINFRAME+v6.0;SCANNING_AIRSPACE...;TACTICAL_EAGLE_DETECTED.;UPLINK_STABLE).">
