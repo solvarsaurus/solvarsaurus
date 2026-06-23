@@ -3,19 +3,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=700&height=50&lines=SOLVARSAURUS_OS_v1.0.4+BOOTING...;ESTABLISHING_SECURE_UPLINK...;ACCESS_GRANTED.">
 
 ```text
-╔════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                        ║
-║  ███████╗ ██████╗ ██╗    ██╗    ██╗ █████╗ ██████╗ ███████╗ █████╗  ██╗   ██╗██████╗ ██╗   ██╗███████╗ ║
-║  ██╔════╝██╔═══██╗██║    ██║    ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗ ██║   ██║██╔══██╗██║   ██║██╔════╝ ║
-║  ███████╗██║   ██║██║    ██║    ██║███████║██████╔╝███████╗███████ ║██║   ██║██████╔╝██║   ██║███████╗ ║
-║  ╚════██║██║   ██║██║    ╚██╗ ██╔╝██╔══██║██╔══██╗╚════██║ ██╔══██ ║██║   ██║██╔══██╗██║   ██║╚════██║ ║
-║  ███████║╚██████╔╝███████╗╚████╔╝ ██║  ██║██║  ██║███████║ ██║  ██║╚██████╔╝██║  ██║╚██████╔╝███████║  ║
-║  ╚══════╝ ╚═════╝ ╚══════╝ ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝  ║
-║                                                                                                        ║
-╚════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+  █████████           ████                                                                                           
+ ███▒▒▒▒▒███         ▒▒███                                                                                           
+▒███    ▒▒▒   ██████  ▒███  █████ █████  ██████   ████████   █████   ██████   █████ ████ ████████  █████ ████  █████ 
+▒▒█████████  ███▒▒███ ▒███ ▒▒███ ▒▒███  ▒▒▒▒▒███ ▒▒███▒▒███ ███▒▒   ▒▒▒▒▒███ ▒▒███ ▒███ ▒▒███▒▒███▒▒███ ▒███  ███▒▒  
+ ▒▒▒▒▒▒▒▒███▒███ ▒███ ▒███  ▒███  ▒███   ███████  ▒███ ▒▒▒ ▒▒█████   ███████  ▒███ ▒███  ▒███ ▒▒▒  ▒███ ▒███ ▒▒█████ 
+ ███    ▒███▒███ ▒███ ▒███  ▒▒███ ███   ███▒▒███  ▒███      ▒▒▒▒███ ███▒▒███  ▒███ ▒███  ▒███      ▒███ ▒███  ▒▒▒▒███
+▒▒█████████ ▒▒██████  █████  ▒▒█████   ▒▒████████ █████     ██████ ▒▒████████ ▒▒████████ █████     ▒▒████████ ██████ 
+ ▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒  ▒▒▒▒▒    ▒▒▒▒▒     ▒▒▒▒▒▒▒▒ ▒▒▒▒▒     ▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒▒▒ ▒▒▒▒▒▒  
+                                                                                                                     
+                                                                                                                     
                                                
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-║ > SYSTEM_OPERATOR: Solvarsaurus - ANDY       > CORE_TECH: C++ / Python / IoT / Linux / Javascript ║
+║ > SYSTEM_OPERATOR: Solvarsaurus - ANDY       > CORE_TECH: C++ / Python / IoT / OS Dev / Javascript║
 ║ > STATUS: ACTIVE                             > MISSION: Optimizing IOT Solutions with AI          ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -27,36 +28,33 @@
 ╔═════════════════════════════════════════════════════════════════╦═════════════════════════════════════════════════╗
 ║  /// LINUX COMPUTING SYSTEMS ///////////////                    ║ MODEL: SOLVARSAURUS-ST-1986 //////////////////  ║
 ╠═════════════════════════════════════════════════════════════════╬═════════════════════════════════════════════════╣
-║                        "-/uYCQOOQCYu/-"                         ║ ▶ SYSTEM_ROM_DATA                               ║
-║                    '?cmwwwwwwwwwwwwwwwwwwmv?.                   ║ ----------------------------------------------- ║
-║                 `}OwwwwwwwwwwwwwwwwwwwwwwwwwwO}'                ║ [USER]   : SOLVARSAURUS @ TTY1                  ║
-║               ;JwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwY"              ║ [KERNEL] : LINUX_EMBEDDED_V4                    ║
-║             ,QwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwC`            ║ [IOT]    : IOT_ESP32_LoRa_ACTIVE                ║
-║            xwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwf           ║ [LANGUAGES] : C++,PYTHON,JAVASCRIPT             ║
-║          ;0wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwL.         ║ [EXP]  : SYSTEM ARCHITECTURE,INFRASTRUCTURE DEV ║
-║         ;Zwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww>        ║                                                 ║
-║        imwwwwwwwwwwwwwwwwwwwwwCt-:           .I[rOwwwwwZI       ║ ▶ HARDWARE_&_SOFTWARE INTERGRATION/AUTOMATION   ║
-║       'QwwwwwwwwwwwwwwwwwwQt"                      jwwww0"      ║ ----------------------------------------------- ║
-║       zwwwwwwwwwwwwwwwwmx.                        "Xwwwwwf      ║ > JOYSTICK_1: C++_DEVELOPMENT                   ║
-║      ;ZwwwwwwwwwwwwwZ[<                           !wwwwwwwI     ║ > JOYSTICK_2: AI_AUTOMATION                     ║
-║      (wwwwwwwwwwwww0                            ~Owwwwwwwwt     ║ > SERIAL_PRT: ARDUINO_AND_IOT DEVELOPMENT       ║
-║      CwwwwwwwwwwwwwU      ,mOCXj1_l,"^":i?|{   <Lwwwwwwwwwz     ║ > MONITOR   : MQTT AND API INTEGRATIONS         ║
-║     .mwwwwwwwwwwwwww0'    ~qqqqqqqqqqqqqqqqclQwwwwwwwwwwwwU.    ║                                                 ║
-║     'wwwwwwwwwwwwwwZ"      JqqqqqqqqqqqqqqqQ"OwwwwwwwwwwwwU.    ║                                                 ║
-║      Owwwwwwwwwwwwwn     ;)qqqqqqqqqqqqqqqqq"zwwwwwwwwwwwwX.    ║                                                 ║
-║      xwwwwwwwwwwwwwr    +qqqqqqqqz+,cqqqql,(+(wwwwwwwwwwwwj     ║                                                 ║
-║      iwwwwwwwwwwwwwU    >wqqqqqY ';:iwpqq{<mv.!Qwwwwwwwwwwi     ║                                                 ║
-║      'CwwwwwwwwwwwwwI   IvzCCc:_wQ'CZ..I`~'10'~(mwwwwwwwwu      ║                                                 ║
-║       iwwwwwwwwwwww0'rOUwqqqqZtxqqmqm.0w|_qqO;+wwwwwwwwwO:      ║                                                 ║
-║        }wwwwwwwwwwwX QqZ\Lqqqqq/\0Zn_QjOqi{][:-wwwwwwwww_       ║                                                 ║
-║         \wwwwwwwwwww/,[[uqqqqqqqqqqQ)l`  `ijq[lmwwwwwww]        ║                                                 ║
-║          1wwwwwwwwwwwwwwjYqqqqqqqqX.  "-_', _}IZwwwwwZi         ║                                                 ║
-║           :0wwwwwwwwwwwwm!1qqqqqqqqqqq).1qqqY`twwwwwL"          ║                                                 ║
-║             (wwwwwwwwwwwww}.fwqqqqqqqqt .Zf.I0wwwwm[            ║                                                 ║
-║              .rwwwwwwwwwwwwZCmqJIc_nQc>     Uwwww1.             ║                                                 ║
-║                .]ZwwwwwwwwwwwwwwmUzf!    .[0wwL>                ║                                                 ║
-║                   `[Lwwwwwwwwwwwwwwwwwwwwwwz+.                  ║                                                 ║
-║                       ^_tUZwwwwwwwwwwOz|<'                      ║                                                 ║
+║                      .::==*##%%%%%%##*==:.                      ║ ▶ SYSTEM_ROM_DATA                               ║
+║                  .-#@@@@@@@@@@@@@@@@@@@@@@@@#-.                 ║ ----------------------------------------------- ║
+║               .=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=.              ║ [USER]   : SOLVARSAURUS @ TTY1                  ║
+║             -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-            ║ [KERNEL] : LINUX_EMBEDDED_V4                    ║
+║           -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-          ║ [IOT]    : Yocto_ESP32_LoRa_LINUX               ║
+║          +@@@@@@@@@@@@@@@%##*******##%════════════════+         ║ [LANGUAGES] : C++,PYTHON,JAVASCRIPT             ║
+║         #@@══════════#*++++==============++++*#═════════#       ║ [EXP]  : SYSTEM ARCHITECTURE,INFRASTRUCTURE DEV ║
+║        %═════════#*+++========================+++*#═══════%     ║                                                 ║
+║       %════════*++================================++*══════%    ║ ▶ HARDWARE_&_SOFTWARE INTERGRATION/AUTOMATION   ║
+║      #═══════*++====================================++*═════#   ║ ----------------------------------------------- ║
+║      ═══════*+===================@@==================+*══════   ║ > JOYSTICK_1: SERVER_DEVELOPMENT                ║
+║     ═══════*+===================@@@@==================+*═════   ║ > JOYSTICK_2: AI_AUTOMATION                     ║
+║     ═══════+====================@@@@===================+═════   ║ > SERIAL_PRT: ARDUINO_AND_IOT DEVELOPMENT       ║
+║     ═══════+===================@@@@@@==================+═════   ║ > MONITOR   : NATS AND API INTEGRATIONS         ║
+║     ═══════+==================@@@@@@@@=================+═════   ║                                                 ║
+║     ═══════*+================@@@@@@@@@@===============+*═════   ║                                                 ║
+║      ═══════*+==============@@@@@══@@@@@=============+*══════   ║                                                 ║
+║      #═══════*++===========@@@@═    ═@@@@===========++*═════#   ║                                                 ║
+║       %════════*++════════@@@@        @@@@════════++*══════%    ║                                                 ║
+║        %═════════#*+++═══@@@@          @@@@════+++*═══════%     ║                                                 ║
+║         #@@══════════#*+@@@@@          @@@@@+*#═════════#       ║                                                 ║
+║          +@@═══════════@@@@@@@        @@@@@@@═════════+         ║                                                 ║
+║           -@@@@@@@@@@@@@@@@@@@@      @@══════════════-          ║                                                 ║
+║             -%@@@@@@@@@@@@@@@@@@@══@@@@@@@@Target%%-            ║                                                 ║
+║               .=%@@@@@@@@@@@@@@@@@@@@@@@@Target%═.              ║                                                 ║
+║                  .-#@@@@@@@@@@@@@@@@Target═#-.                  ║                                                 ║
+║                      .::==*##%%%%%%##*==:.                      ║                                                 ║
 ╠═════════════════════════════════════════════════════════════════╩═════════════════════════════════════════════════╣
 ║ ▶ EXEC: GITHUB_STATS_VISUALIZER --THEME=ASCII_GREEN                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
