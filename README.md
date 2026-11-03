@@ -1,83 +1,52 @@
-<div align="center">
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Andrew Senra"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=700&height=50&lines=SOLVARSAURUS_OS_v1.0.4+BOOTING...;ESTABLISHING_SECURE_UPLINK...;ACCESS_GRANTED.">
+<p align="center">
+  <img src="scene-lava.svg" width="100%" alt="Pixel-art game scene: Andy leaps across a lava cave toward a dragon"/>
+</p>
 
-```text
+<details>
+<summary><b><kbd>&nbsp;&#9654;&nbsp;PRESS&nbsp;START&nbsp;</kbd></b> &nbsp;<sub>click to open the profile</sub></summary>
 
-  █████████           ████                                                                                           
- ███▒▒▒▒▒███         ▒▒███                                                                                           
-▒███    ▒▒▒   ██████  ▒███  █████ █████  ██████   ████████   █████   ██████   █████ ████ ████████  █████ ████  █████ 
-▒▒█████████  ███▒▒███ ▒███ ▒▒███ ▒▒███  ▒▒▒▒▒███ ▒▒███▒▒███ ███▒▒   ▒▒▒▒▒███ ▒▒███ ▒███ ▒▒███▒▒███▒▒███ ▒███  ███▒▒  
- ▒▒▒▒▒▒▒▒███▒███ ▒███ ▒███  ▒███  ▒███   ███████  ▒███ ▒▒▒ ▒▒█████   ███████  ▒███ ▒███  ▒███ ▒▒▒  ▒███ ▒███ ▒▒█████ 
- ███    ▒███▒███ ▒███ ▒███  ▒▒███ ███   ███▒▒███  ▒███      ▒▒▒▒███ ███▒▒███  ▒███ ▒███  ▒███      ▒███ ▒███  ▒▒▒▒███
-▒▒█████████ ▒▒██████  █████  ▒▒█████   ▒▒████████ █████     ██████ ▒▒████████ ▒▒████████ █████     ▒▒████████ ██████ 
- ▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒  ▒▒▒▒▒    ▒▒▒▒▒     ▒▒▒▒▒▒▒▒ ▒▒▒▒▒     ▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒ ▒▒▒▒▒       ▒▒▒▒▒▒▒▒ ▒▒▒▒▒▒  
-                                                                                                                     
-                                                                                                                     
-                                               
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-║ > SYSTEM_OPERATOR: Solvarsaurus - ANDY       > CORE_TECH: C++ / Python / IoT / OS Dev / Javascript║
-║ > STATUS: ACTIVE                             > MISSION: Optimizing IOT Solutions with AI          ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-<div align="center">
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=750&height=50&lines=SOLVARSAURUS_ST_MAINFRAME+v1.0.4;LOADING_BIOSCAN_MODULES...;SAPIEN_SPECIMEN_ID_VERIFIED.;ACCESS_GRANTED.">
+**Senior Software Engineer** &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; Secure backend systems
 
-```text
-╔═════════════════════════════════════════════════════════════════╦═════════════════════════════════════════════════╗
-║  /// LINUX COMPUTING SYSTEMS ///////////////                    ║ MODEL: SOLVARSAURUS-ST-1986 //////////////////  ║
-╠═════════════════════════════════════════════════════════════════╬═════════════════════════════════════════════════╣
-║                      .::==*##%%%%%%##*==:.                      ║ ▶ SYSTEM_ROM_DATA                               ║
-║                  .-#@@@@@@@@@@@@@@@@@@@@@@@@#-.                 ║ ----------------------------------------------- ║
-║               .=%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=.              ║ [USER]   : SOLVARSAURUS @ TTY1                  ║
-║             -%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%-            ║ [KERNEL] : LINUX_EMBEDDED_V4                    ║
-║           -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-          ║ [IOT]    : Yocto_ESP32_LoRa_LINUX               ║
-║          +@@@@@@@@@@@@@@@%##*******##%════════════════+         ║ [LANGUAGES] : C++,PYTHON,JAVASCRIPT             ║
-║         #@@══════════#*++++==============++++*#═════════#       ║ [EXP]  : SYSTEM ARCHITECTURE,INFRASTRUCTURE DEV ║
-║        %═════════#*+++========================+++*#═══════%     ║                                                 ║
-║       %════════*++================================++*══════%    ║ ▶ HARDWARE_&_SOFTWARE INTERGRATION/AUTOMATION   ║
-║      #═══════*++====================================++*═════#   ║ ----------------------------------------------- ║
-║      ═══════*+===================@@==================+*══════   ║ > JOYSTICK_1: SERVER_DEVELOPMENT                ║
-║     ═══════*+===================@@@@==================+*═════   ║ > JOYSTICK_2: AI_AUTOMATION                     ║
-║     ═══════+====================@@@@===================+═════   ║ > SERIAL_PRT: ARDUINO_AND_IOT DEVELOPMENT       ║
-║     ═══════+===================@@@@@@==================+═════   ║ > MONITOR   : NATS AND API INTEGRATIONS         ║
-║     ═══════+==================@@@@@@@@=================+═════   ║                                                 ║
-║     ═══════*+================@@@@@@@@@@===============+*═════   ║                                                 ║
-║      ═══════*+==============@@@@@══@@@@@=============+*══════   ║                                                 ║
-║      #═══════*++===========@@@@═    ═@@@@===========++*═════#   ║                                                 ║
-║       %════════*++════════@@@@        @@@@════════++*══════%    ║                                                 ║
-║        %═════════#*+++═══@@@@          @@@@════+++*═══════%     ║                                                 ║
-║         #@@══════════#*+@@@@@          @@@@@+*#═════════#       ║                                                 ║
-║          +@@═══════════@@@@@@@        @@@@@@@═════════+         ║                                                 ║
-║           -@@@@@@@@@@@@@@@@@@@@      @@══════════════-          ║                                                 ║
-║             -%@@@@@@@@@@@@@@@@@@@══@@@@@@@@Target%%-            ║                                                 ║
-║               .=%@@@@@@@@@@@@@@@@@@@@@@@@Target%═.              ║                                                 ║
-║                  .-#@@@@@@@@@@@@@@@@Target═#-.                  ║                                                 ║
-║                      .::==*##%%%%%%##*==:.                      ║                                                 ║
-╠═════════════════════════════════════════════════════════════════╩═════════════════════════════════════════════════╣
-║ ▶ EXEC: GITHUB_STATS_VISUALIZER --THEME=ASCII_GREEN                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
+I design and build systems where software meets the physical world: devices in the field, video and AI at the edge, and the backend services that connect them. I care about clear architecture, tested code, and systems that fail safe. I like hard problems and teams that ship.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=plastic&logo=platformio&logoColor=%23f5822a) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=plastic&logo=zigbee&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=plastic&logo=eclipsemosquitto&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Solvarsaurus&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Solvarsaurus&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Solvarsaurus&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Solvarsaurus&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Solvarsaurus&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+**Currently:** preparing for the AWS Certified Solutions Architect exam.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Solvarsaurus&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/solvarsaurus) 
+### What I do
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Area | In practice |
+|------|-------------|
+| **System architecture** | Event-driven, edge-to-cloud platforms. Design decisions written down before the code. |
+| **Backend and APIs** | Python (FastAPI, asyncio) and Go services, REST and NATS/JetStream messaging, PostgreSQL. |
+| **IoT and embedded** | ESP32 / ESP8266 firmware, embedded Linux, serial (RS-232) and wireless device integration. |
+| **Applied AI and vision** | Face, vehicle and object recognition at the edge, ONNX deployment, model evaluation and threshold tuning. |
+| **Security and reliability** | Access control, tamper-evident audit logs, hardened deployments, LGPD / GDPR data protection. |
+| **Cloud and CRM** | AWS cloud services. Salesforce development with Apex and system integrations. |
+| **Engineering practice** | Test-driven development, CI/CD quality gates, code review, observability in production. |
+
+### Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;·&nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) &nbsp;·&nbsp; ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) &nbsp;·&nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) &nbsp;·&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) &nbsp;·&nbsp; ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white) &nbsp;·&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) &nbsp;·&nbsp; ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white) &nbsp;·&nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) &nbsp;·&nbsp; ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) &nbsp;·&nbsp; ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) &nbsp;·&nbsp; ![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) &nbsp;·&nbsp; ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) &nbsp;·&nbsp; ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCA1LjVhNC4yIDQuMiAwIDAgMSAzLjEgMS40IDMuNiAzLjYgMCAwIDEgNS40IDEuNkE0IDQgMCAwIDEgMjAgMTYuM2EzLjMgMy4zIDAgMCAxLTQuNiAxLjYgMy40IDMuNCAwIDAgMS01LjkuNCAzLjYgMy42IDAgMCAxLTUuMi0yLjRBMy40IDMuNCAwIDAgMSA0IDEwYTQuMiA0LjIgMCAwIDEgNi00LjV6Ii8+PC9zdmc+) &nbsp;·&nbsp; ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCA1LjVhNC4yIDQuMiAwIDAgMSAzLjEgMS40IDMuNiAzLjYgMCAwIDEgNS40IDEuNkE0IDQgMCAwIDEgMjAgMTYuM2EzLjMgMy4zIDAgMCAxLTQuNiAxLjYgMy40IDMuNCAwIDAgMS01LjkuNCAzLjYgMy42IDAgMCAxLTUuMi0yLjRBMy40IDMuNCAwIDAgMSA0IDEwYTQuMiA0LjIgMCAwIDEgNi00LjV6Ii8+PC9zdmc+) &nbsp;·&nbsp; ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Activity
+
+<img src="chart-daily.svg" width="100%" alt="Contribution activity, last 180 days, as daily candles"/>
+
+![Most used languages](https://ghstats.dev/api/langs?username=solvarsaurus&layout=compact&theme=github_dark)
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Senra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-d40)
+
+---
+
+<sub>Like something I made? [![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/solvarsaurus)</sub>
+
+</details>
